@@ -1,0 +1,1 @@
+My motivations for learning Node.js is because with Node.js, I can build website fast for my startup, manage web packages and also automate tasks.
