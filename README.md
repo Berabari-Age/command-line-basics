@@ -1,4 +1,4 @@
-inpute: mkdir projects
+input: mkdir projects
 
 output: cd projects
 
